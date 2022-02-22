@@ -7,3 +7,6 @@ Commander is shortcut for Apple and you can modify it (add more commands)
 - !msg *Sends message to someone*
 - !app *Open any app*
 - There is more commands!
+## Modification
+Create clone of Commander shortcut. Open it. Add something.
+Example:
