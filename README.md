@@ -8,5 +8,10 @@ Commander is shortcut for Apple and you can modify it (add more commands)
 - !app *Open any app*
 - There is more commands!
 ## Modification
-Create clone of Commander shortcut. Open it. Add something.
-Example:
+Create clone of Commander shortcut.
+
+Open it.
+
+Add something.
+
+Done!
