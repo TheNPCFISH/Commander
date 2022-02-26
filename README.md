@@ -1,4 +1,5 @@
 # ⊹Commander⊹
+![](https://github.com/TheNPCFISH/Commander/blob/main/EEA80ABC-1EC7-442B-9EEA-D075C0CE9D43.jpeg)
 ## What is it?
 Commander is shortcut for Apple and you can modify it (add more commands)
 ## Features (commands)
