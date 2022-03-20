@@ -1,7 +1,8 @@
 # ⊹Commander⊹
 ![image](https://img.shields.io/github/issues/TheNPCFISH/Commander.svg)
 ![](https://github.com/TheNPCFISH/Commander/blob/main/icon.png)
-![image](https://user-images.githubusercontent.com/93332534/159153210-f5fcdce4-b9cc-421a-966c-c49f0a0fcef2.png)
+![image](https://user-images.githubusercontent.com/93332534/159153389-b5fe7af5-5c1b-44b5-af00-e6bff7f6771b.png)
+
 ## What is it?
 Commander is shortcut for Apple and you can modify it (add more commands)
 ## Features (commands)
