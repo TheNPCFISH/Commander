@@ -1,6 +1,7 @@
 # ⊹Commander⊹
 ![image](https://img.shields.io/github/issues/TheNPCFISH/Commander.svg)
-![](https://github.com/TheNPCFISH/Commander/blob/main/icon.png)
+
+
 ![image](https://user-images.githubusercontent.com/93332534/159153389-b5fe7af5-5c1b-44b5-af00-e6bff7f6771b.png)
 
 ## What is it?
