@@ -1,5 +1,5 @@
 # ⊹Commander⊹
-[.image](https://github-readme-stats.vercel.app/api?username=TheNPCFISH)
+![image](https://github-readme-stats.vercel.app/api?username=TheNPCFISH)
 ![](https://github.com/TheNPCFISH/Commander/blob/main/icon.png)
 ## What is it?
 Commander is shortcut for Apple and you can modify it (add more commands)
