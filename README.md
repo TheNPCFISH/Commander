@@ -3,7 +3,7 @@
 ![image](https://img.shields.io/github/stars/TheNPCFISH/Commander.svg)
 
 
-![image](https://user-images.githubusercontent.com/93332534/159153389-b5fe7af5-5c1b-44b5-af00-e6bff7f6771b.png)
+<img width="838" alt="Commander github fit 2x" src="https://user-images.githubusercontent.com/93332534/159153389-b5fe7af5-5c1b-44b5-af00-e6bff7f6771b.png">
 
 ## What is it?
 Commander is shortcut for Apple and you can modify it (add more commands)
